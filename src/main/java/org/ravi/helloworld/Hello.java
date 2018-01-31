@@ -11,5 +11,5 @@ public class Hello {
 		msg = "hi";}
 		return msg;
 	
-
+	}
 }
